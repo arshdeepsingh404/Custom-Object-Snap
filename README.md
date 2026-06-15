@@ -36,8 +36,8 @@ For the simplest experience, download the Custom Object Snap add-in directly fro
 If you prefer to manage your plugins manually or are using the version from GitHub, use the Autoloader method. This ensures the add-in is loaded automatically every time you open AutoCAD.
 
 1. Navigate to the Releases tab on the right side of this page.
-2. Download the CustomObjectSnap.bundle folder.
-3. Copy the folder to: %APPDATA%\Autodesk\ApplicationPlugins\
+2. Download the CustomObjectSnap.bundle zipped folder.
+3. Copy and extract the folder to: %APPDATA%\Autodesk\ApplicationPlugins\
 4. Launch or restart AutoCAD.
 5. Approve the security prompt by clicking “Always Load.”
 6. At the command prompt, enter COS.
