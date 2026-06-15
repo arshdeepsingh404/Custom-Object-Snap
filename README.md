@@ -105,4 +105,4 @@ Autodesk Expert Elite | C. Tech | CMSE® | CAPM®
 <p align="center">◈ ◈ ◈</p>
 &nbsp;
 
-_© 2026 Match Attribute Properties. All rights reserved._
+_© 2026 Custom Object Snap. All rights reserved._
