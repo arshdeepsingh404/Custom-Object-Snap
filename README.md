@@ -101,9 +101,3 @@ Autodesk Expert Elite | C. Tech | CMSE® | CAPM®
 | Version | Date | Changes |
 | :--- | :--- | :--- |
 | **1.0.0** | June 2026 | Initial Release |
-
-&nbsp;
-<p align="center">◈ ◈ ◈</p>
-&nbsp;
-
-_© 2026 Custom Object Snap. All rights reserved._
